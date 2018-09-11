@@ -25,6 +25,7 @@ export class ChapterComponent implements OnInit {
      Description:"たくさんのデータを扱うときに便利な配列を使ってみよう。例えば、カレンダーの月を変数に一つ一つ入れると１２個必要だけど配列だと１つでかんりできるんやで"}
  ];
 
+ 
   constructor() { }
 
   ngOnInit() {
